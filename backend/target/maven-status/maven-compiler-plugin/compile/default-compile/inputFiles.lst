@@ -1,7 +1,0 @@
-/Users/mahdi/dev/ai/ar-drawing/backend/src/main/java/com/ardrawing/ArDrawingApplication.java
-/Users/mahdi/dev/ai/ar-drawing/backend/src/main/java/com/ardrawing/config/DataSeeder.java
-/Users/mahdi/dev/ai/ar-drawing/backend/src/main/java/com/ardrawing/controller/TemplateController.java
-/Users/mahdi/dev/ai/ar-drawing/backend/src/main/java/com/ardrawing/dto/TemplateResponse.java
-/Users/mahdi/dev/ai/ar-drawing/backend/src/main/java/com/ardrawing/model/Template.java
-/Users/mahdi/dev/ai/ar-drawing/backend/src/main/java/com/ardrawing/repository/TemplateRepository.java
-/Users/mahdi/dev/ai/ar-drawing/backend/src/main/java/com/ardrawing/service/TemplateService.java

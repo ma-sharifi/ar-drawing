@@ -1,0 +1,15 @@
+# Maven build output
+backend/target/
+
+# Xcode
+ios/ARDrawing.xcodeproj/xcuserdata/
+ios/ARDrawing.xcodeproj/project.xcworkspace/xcuserdata/
+ios/build/
+*.xcuserstate
+DerivedData/
+
+# macOS
+.DS_Store
+
+# Claude Code local settings
+.claude/
