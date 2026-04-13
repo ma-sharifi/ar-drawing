@@ -18,6 +18,10 @@ targets:
       - path: ARDrawing
     info:
       path: ARDrawing/Resources/Info.plist
+      properties:
+        NSCameraUsageDescription: "ARDrawing uses the camera to detect flat surfaces and overlay your chosen drawing template."
+        UIRequiredDeviceCapabilities:
+          - arkit
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.ardrawing.app
