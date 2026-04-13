@@ -1,0 +1,7 @@
+com/ardrawing/repository/TemplateRepository.class
+com/ardrawing/dto/TemplateResponse.class
+com/ardrawing/controller/TemplateController.class
+com/ardrawing/config/DataSeeder.class
+com/ardrawing/model/Template.class
+com/ardrawing/ArDrawingApplication.class
+com/ardrawing/service/TemplateService.class
